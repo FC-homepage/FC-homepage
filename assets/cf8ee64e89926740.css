@@ -1,0 +1,50 @@
+
+@font-face {
+ font-family: 'Noto Sans KR';
+ font-style: normal;
+ font-weight: 200;
+ src: local('Noto Sans KR Thin'),  local('Noto Sans KR-Thin'),  local('NotoSansKR Thin'),  local('NotoSansKR-Thin'),  url("66bb0ed10f8ad7c1.woff2") format('woff2'),
+ url("ab0b97f43c9dfc91.woff") format('woff');
+}
+@font-face {
+ font-family: 'Noto Sans KR';
+ font-style: normal;
+ font-weight: 300;
+ src: local('Noto Sans KR Light'),  local('Noto Sans KR-Light'),  local('NotoSansKR Light'),  local('NotoSansKR-Light'),  url("0af571ca72be312e.woff2") format('woff2'),
+ url("1a7a88aa04aa4078.woff") format('woff');
+}
+@font-face {
+ font-family: 'Noto Sans KR';
+ font-style: normal;
+ font-weight: 400;
+ src: local('Noto Sans KR Regular'),  local('Noto Sans KR-Regular'),  local('NotoSansKR Regular'),  local('NotoSansKR-Regular'),  url("b6eb81879ac018a9.woff2") format('woff2'),
+ url("10e2b7daea31636b.woff") format('woff');
+}
+@font-face {
+ font-family: 'Noto Sans KR';
+ font-style: normal;
+ font-weight: 700;
+ src: local('Noto Sans KR Bold'),  local('Noto Sans KR-Bold'),  local('NotoSansKR Bold'),  local('NotoSansKR-Bold'),  url("4b20f66decdcd6c2.woff2") format('woff2'),
+ url("0ef4fc53303ccb03.woff") format('woff');
+}
+@font-face {
+ font-family: 'Noto Sans KR';
+ font-style: normal;
+ font-weight: 900;
+ src: local('Noto Sans KR Black'), local('Noto Sans KR ExtraBold'), local('Noto Sans KR-Black'), local('Noto Sans KR-ExtraBold'), local('NotoSansKR Black'), local('NotoSansKR ExtraBold'), local('NotoSansKR-Black'), local('NotoSansKR-ExtraBold'), url("cbb2180cb6cba43f.woff2") format('woff2'),
+ url("5d9801214d43a20d.woff") format('woff');
+}
+@font-face {
+ font-family: 'Maplestory';
+ font-style: normal;
+ font-weight: 400;
+ src: local('Maplestory Regular'),  local('Maplestory-Regular'),  local('Maplestory Regular'),  local('Maplestory-Regular'),  url("21c33966d64cc10f.woff2") format('woff2'),
+ url("9823ef34b7127651.woff") format('woff');
+}
+@font-face {
+ font-family: 'Maplestory';
+ font-style: normal;
+ font-weight: 700;
+ src: local('Maplestory Bold'),  local('Maplestory-Bold'),  local('Maplestory Bold'),  local('Maplestory-Bold'),  url("37842a56157ef550.woff2") format('woff2'),
+ url("3b490f9f21f5d436.woff") format('woff');
+}

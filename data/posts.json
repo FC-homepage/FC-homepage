@@ -1,0 +1,32 @@
+[
+  {
+    "id": "001",
+    "type": "emph",
+    "title": "황금의 유산(7.0) 패치 대비 부대사이트 수정진행",
+    "sourceId": "0Xshfj",
+    "boardId": "tYQOFY",
+    "date": "2024-07-15",
+    "json": "posts/001_emph_황금의 유산(7.0) 패치 대비 부대사이트 수정진행.json",
+    "file": "posts/001_emph_황금의 유산(7.0) 패치 대비 부대사이트 수정진행.html"
+  },
+  {
+    "id": "002",
+    "type": "emph",
+    "title": "(완)부대 5주년 이벤트 안내",
+    "sourceId": "IoTDzM",
+    "boardId": "tYQOFY",
+    "date": "2023-01-22",
+    "json": "posts/002_emph_(완)부대 5주년 이벤트 안내.json",
+    "file": "posts/002_emph_(완)부대 5주년 이벤트 안내.html"
+  },
+  {
+    "id": "003",
+    "type": "공지",
+    "title": "7.0 - 고난도 컨텐츠 입문자 부대 지원 안내",
+    "sourceId": "LBTM79",
+    "boardId": "tCdWBr",
+    "date": "2025-01-01",
+    "json": "posts/003_공지_7.0 - 고난도 컨텐츠 입문자 부대 지원 안내.json",
+    "file": "posts/003_공지_7.0 - 고난도 컨텐츠 입문자 부대 지원 안내.html"
+  }
+]

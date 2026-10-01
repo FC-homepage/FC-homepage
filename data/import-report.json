@@ -1,0 +1,49 @@
+{
+  "origin": "https://ffxiv42.quv.kr",
+  "importedAt": "2026-10-01T13:39:39.413Z",
+  "pages": 14,
+  "posts": 3,
+  "assets": 331,
+  "failures": [
+    {
+      "url": "https://fonts.googleapis.com/css?family=Ionicons:300,400,700",
+      "error": "HTTP 400"
+    },
+    {
+      "url": "https://cdn.quv.kr/ldnkeb7zc%2Fup%2F63c2bef082307_1920.png",
+      "error": "HTTP 403"
+    },
+    {
+      "url": "https://ffxiv42.quv.kr/test/dot.png",
+      "error": "HTTP 404"
+    },
+    {
+      "url": "https://ffxiv42.quv.kr/fonts/glyphicons-halflings-regular.eot",
+      "error": "HTTP 404"
+    },
+    {
+      "url": "https://ffxiv42.quv.kr/fonts/glyphicons-halflings-regular.eot?#iefix",
+      "error": "HTTP 404"
+    },
+    {
+      "url": "https://ffxiv42.quv.kr/fonts/glyphicons-halflings-regular.woff2",
+      "error": "HTTP 404"
+    },
+    {
+      "url": "https://ffxiv42.quv.kr/fonts/glyphicons-halflings-regular.woff",
+      "error": "HTTP 404"
+    },
+    {
+      "url": "https://ffxiv42.quv.kr/fonts/glyphicons-halflings-regular.ttf",
+      "error": "HTTP 404"
+    },
+    {
+      "url": "https://ffxiv42.quv.kr/fonts/glyphicons-halflings-regular.svg#glyphicons_halflingsregular",
+      "error": "HTTP 404"
+    },
+    {
+      "url": "https://ffxiv42.quv.kr/img/sc/sns/icon/Square-Color/Github.png",
+      "error": "HTTP 404"
+    }
+  ]
+}

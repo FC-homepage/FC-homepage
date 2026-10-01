@@ -1,0 +1,24 @@
+body.live { display: block !important; }
+.board-tbody-tr[data-post] { cursor: pointer; }
+.board-tbody-item-title a, .board-tbody-item-title a span { color: inherit !important; }
+.board-tbody-item-title .static-comment-count { margin-left: 8px; }
+.header .mn-item:hover > .sub-mn,
+.header .mn-item:focus-within > .sub-mn,
+.header .mn-item.static-expanded > .sub-mn { display: block !important; visibility: visible !important; opacity: 1 !important; }
+.mn-link[role="button"], .header-side-nav-button { cursor: pointer; }
+.read-content-list, .read-content-prev, .read-content-next { display: inline-block !important; font-size: 12px; line-height: 14px; text-decoration: none; color: inherit; padding: 10px 24px; border: 1px solid #ccc; min-width: 110px; text-align: center; }
+.read-title { overflow-wrap: anywhere; }
+.read-content-inner img { height: auto; max-width: 100%; cursor: zoom-in; }
+.read-content-inner { overflow-wrap: anywhere; }
+.static-image-dialog { padding: 32px 12px 12px; border: 0; max-width: 96vw; max-height: 94vh; }
+.static-image-dialog::backdrop { background: rgba(0, 0, 0, .75); }
+.static-image-dialog > img { display: block; max-width: 90vw; max-height: 83vh; object-fit: contain; }
+.static-image-dialog > button { position: absolute; right: 4px; top: 0; width: 32px; height: 32px; background: white; border: 0; font-size: 26px; cursor: pointer; }
+@media (max-width: 767px) {
+  .header-mobile .header-side-nav { position: fixed !important; top: 0 !important; left: 0 !important; height: 100dvh !important; max-width: 90vw; overflow-y: auto !important; z-index: 10000 !important; transform: translateX(-105%) !important; display: block !important; visibility: hidden; }
+  .header-mobile .header-side-nav.static-open { transform: translateX(0) !important; visibility: visible; box-shadow: 0 0 0 100vmax rgba(0, 0, 0, .35); }
+  .header-mobile .header-side-nav .sub-mn { display: none !important; }
+  .header-mobile .header-side-nav .static-expanded > .sub-mn { display: block !important; opacity: 1 !important; visibility: visible !important; height: auto !important; transform: none !important; }
+  .header-mobile .header-side-nav-close { cursor: pointer; }
+  body.static-menu-open { overflow: hidden; }
+}

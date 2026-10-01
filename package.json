@@ -1,0 +1,14 @@
+{
+  "name": "ffxiv42-static",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "import": "node tools/import-site.mjs",
+    "build": "node tools/build.mjs",
+    "preview": "node tools/preview.mjs"
+  },
+  "devDependencies": {
+    "cheerio": "1.1.2",
+    "playwright": "1.55.1"
+  }
+}

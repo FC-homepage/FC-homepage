@@ -1,0 +1,72 @@
+[
+  {
+    "route": "/home",
+    "file": "index.html",
+    "title": "메인"
+  },
+  {
+    "route": "/2",
+    "file": "2.html",
+    "title": "부대규칙"
+  },
+  {
+    "route": "/3",
+    "file": "3.html",
+    "title": "종합 가이드"
+  },
+  {
+    "route": "/14",
+    "file": "14.html",
+    "title": "초보자 가이드"
+  },
+  {
+    "route": "/12",
+    "file": "12.html",
+    "title": "채집.제작"
+  },
+  {
+    "route": "/19",
+    "file": "19.html",
+    "title": "길을 벌자"
+  },
+  {
+    "route": "/9",
+    "file": "9.html",
+    "title": "만렙 딜사이클"
+  },
+  {
+    "route": "/22",
+    "file": "22.html",
+    "title": "고난도 컨텐츠 준비"
+  },
+  {
+    "route": "/21",
+    "file": "21.html",
+    "title": "고난도 컨텐츠 용어"
+  },
+  {
+    "route": "/23",
+    "file": "23.html",
+    "title": "공략 검색 키워드"
+  },
+  {
+    "route": "/24",
+    "file": "24.html",
+    "title": "프프로그 사용법"
+  },
+  {
+    "route": "/26",
+    "file": "26.html",
+    "title": "부대 홍보지"
+  },
+  {
+    "route": "/27",
+    "file": "27.html",
+    "title": "운영진"
+  },
+  {
+    "route": "/8",
+    "file": "8.html",
+    "title": "8"
+  }
+]
